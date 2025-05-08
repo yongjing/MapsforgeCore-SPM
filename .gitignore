@@ -62,3 +62,6 @@ fastlane/test_output
 # If using j2objc
 j2objc/dist/
 j2objc/build/
+
+.DS_Store
+.swiftpm/
